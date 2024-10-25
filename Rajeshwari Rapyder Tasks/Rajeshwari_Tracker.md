@@ -21,3 +21,4 @@
 
 ### Friday 25-Oct-2024
 - [x] AWS Lambda versions, Aliases, CodeDeploy, Function URL & Security, CodeGuru Profiling, Best Practices
+- [x] DynamoDB intro, Overview, WCU & RCU - ThroughtPut
