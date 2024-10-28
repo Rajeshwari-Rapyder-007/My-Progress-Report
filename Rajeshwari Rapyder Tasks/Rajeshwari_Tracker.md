@@ -27,5 +27,6 @@
 
 ### Monday 28-Oct-2024
 - [x] Revision - IAM,EC2,Load Balancers
-- [x] Setup Apache Web Server on EC2 Instance  
+- [x] Setup Apache Web Server on EC2 Instance 
+- [x] created 2 EC2 instances to see the changes in the updation using bottstap code for Apache
 
