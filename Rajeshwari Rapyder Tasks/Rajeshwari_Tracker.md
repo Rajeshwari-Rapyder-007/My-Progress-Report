@@ -29,4 +29,5 @@
 - [x] Revision - IAM,EC2,Load Balancers
 - [x] Setup Apache Web Server on EC2 Instance 
 - [x] created 2 EC2 instances to see the changes in the updation using bottstap code for Apache
+- [x] created a load balanger for the Ec2 and distributed it among them and tested in the browser.
 
