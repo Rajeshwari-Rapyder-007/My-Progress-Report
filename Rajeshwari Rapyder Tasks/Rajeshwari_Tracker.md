@@ -34,4 +34,4 @@
 ### Teusday 29-Oct-2024
 - [x] Redoing yesterday's tasks
 - [x] Trouble shooted the problem regarding the target groups
-
+- [x] created Auto Scalling Group for EC2
