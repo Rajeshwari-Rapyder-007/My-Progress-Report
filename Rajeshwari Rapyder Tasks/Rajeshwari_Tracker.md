@@ -32,5 +32,6 @@
 - [x] created a load balancer for the EC2 and distributed it among them and tested in the browser.
 
 ### Teusday 29-Oct-2024
--[x] Redoing yesterday's tasks
+- [x] Redoing yesterday's tasks
+- [x] Trouble shooted the problem regarding the target groups
 
