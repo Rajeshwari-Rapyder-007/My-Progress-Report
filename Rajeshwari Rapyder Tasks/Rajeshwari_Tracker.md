@@ -38,3 +38,4 @@
 
 ### Wednesday 30-Oct-2024
 - [x] Yesterdays tasks- Creating instances and attaching to a LB and created an Auto Scaling group for it as well.
+- [x] AWS Networking Services
