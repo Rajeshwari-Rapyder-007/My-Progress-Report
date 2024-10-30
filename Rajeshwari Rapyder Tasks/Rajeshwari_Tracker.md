@@ -35,3 +35,6 @@
 - [x] Redoing yesterday's tasks
 - [x] Trouble shooted the problem regarding the target groups
 - [x] created Auto Scalling Group for EC2
+
+### Wednesday 30-Oct-2024
+- [x] Yesterdays tasks- Creating instances and attaching to a LB and created an Auto Scaling group for it as well.
