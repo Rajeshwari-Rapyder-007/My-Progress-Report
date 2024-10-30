@@ -40,3 +40,4 @@
 - [x] Yesterdays tasks- Creating instances and attaching to a LB and created an Auto Scaling group for it as well.
 - [x] AWS Networking Services
 - [x] Protocols, Subnetting, CIDR
+- [x] OSI Model, TCP/IP, Amazon VPC
