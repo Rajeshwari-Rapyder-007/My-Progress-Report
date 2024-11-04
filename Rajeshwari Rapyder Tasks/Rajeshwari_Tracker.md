@@ -41,3 +41,8 @@
 - [x] AWS Networking Services
 - [x] Protocols, Subnetting, CIDR
 - [x] OSI Model, TCP/IP, Amazon VPC
+
+##
+
+### Monday 04-Nov-2024
+- [x] Recreating a scaled and load-balanced application and revising the Networking Basics
