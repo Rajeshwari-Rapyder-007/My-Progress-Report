@@ -48,3 +48,4 @@
 - [x] Recreating a scaled and load-balanced application and revising the Networking Basics
 - [x] Created the Presentation Tier of the 3-Tier Architecture
 - [x] Task 1 - List S3 buckets using AWS Lambda.
+- [x] Task 2 - List the contents of a S3 bucket. (Any bucket)
