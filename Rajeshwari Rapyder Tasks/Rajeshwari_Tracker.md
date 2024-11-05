@@ -54,3 +54,4 @@
 - [x] Revising HTTP in TCP/IP, diff btwn WAF, NACL, Security groups
 - [x] Created the Presentation Tier of the 3-Tier Architecture
 - [x] Task 3 - List any 4 buckets with its contents using random module
+- [x] Task 4 - Get the list of all Security Groups inside all the VPCs. Take a VPC that has maximum number SGs.
