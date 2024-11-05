@@ -49,3 +49,6 @@
 - [x] Created the Presentation Tier of the 3-Tier Architecture
 - [x] Task 1 - List S3 buckets using AWS Lambda.
 - [x] Task 2 - List the contents of a S3 bucket. (Any bucket)
+
+### Teusday 05-11-2024
+- [x] Revising HTTP in TCP/IP, diff btwn WAF, NACL, Security groups
