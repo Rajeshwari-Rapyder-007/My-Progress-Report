@@ -52,3 +52,4 @@
 
 ### Teusday 05-11-2024
 - [x] Revising HTTP in TCP/IP, diff btwn WAF, NACL, Security groups
+- [x] Created the Presentation Tier of the 3-Tier Architecture
