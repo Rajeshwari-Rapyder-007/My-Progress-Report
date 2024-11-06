@@ -58,3 +58,4 @@
 
 ### Wednesday 06-11-2-2024
 - [x] Successfully created the Presentation Tier of the 3-Tier Architecture.
+- [x] Created the Application Tier of the 3-Tier Architecture
