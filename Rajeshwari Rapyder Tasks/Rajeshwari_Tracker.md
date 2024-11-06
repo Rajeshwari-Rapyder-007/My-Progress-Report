@@ -59,3 +59,4 @@
 ### Wednesday 06-11-2-2024
 - [x] Successfully created the Presentation Tier of the 3-Tier Architecture.
 - [x] Created the Application Tier of the 3-Tier Architecture
+- [x] Get the names of each object of the S3 bucket and put in a file in a csv format and put it in a bucket
