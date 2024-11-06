@@ -55,3 +55,6 @@
 - [x] Created the Presentation Tier of the 3-Tier Architecture
 - [x] Task 3 - List any 4 buckets with its contents using random module
 - [x] Task 4 - Get the list of all Security Groups inside all the VPCs. Take a VPC that has maximum number SGs.
+
+### Wednesday 06-11-2-2024
+- [x] Successfully created the Presentation Tier of the 3-Tier Architecture.
