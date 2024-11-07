@@ -70,3 +70,4 @@
 ### Thursday 07-11-2024
 - [x] Created the Presentation and the Application Tier of the 3-Tier Architecture.
 - [x] Created the DataBAse Tier of the 3-Tier Architecture and completed with the 3-tier arch.
+- [x] Created VPC with 2 public and 2 private subnets with different route tables for public and private subnets and  VPC endpoint to S3
