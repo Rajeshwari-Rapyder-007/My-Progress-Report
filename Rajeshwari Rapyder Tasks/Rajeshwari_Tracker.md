@@ -69,3 +69,4 @@
 
 ### Thursday 07-11-2024
 - [x] Created the Presentation and the Application Tier of the 3-Tier Architecture.
+- [x] Created the DataBAse Tier of the 3-Tier Architecture and completed with the 3-tier arch.
