@@ -44,6 +44,10 @@
 
 ##
 
+
+
+
+
 ### Monday 04-Nov-2024
 - [x] Recreating a scaled and load-balanced application and revising the Networking Basics
 - [x] Created the Presentation Tier of the 3-Tier Architecture
@@ -56,8 +60,12 @@
 - [x] Task 3 - List any 4 buckets with its contents using random module
 - [x] Task 4 - Get the list of all Security Groups inside all the VPCs. Take a VPC that has maximum number SGs.
 
-### Wednesday 06-11-2-2024
+### Wednesday 06-11-2024
 - [x] Successfully created the Presentation Tier of the 3-Tier Architecture.
 - [x] Created the Application Tier of the 3-Tier Architecture
 - [x] Task 5 - Get the names of each object of the S3 bucket and put in a file in a csv format and put it in a bucket
 - [x] Task 6 - Put the names of the SGs that have any port open to 0.0.0.0 in a file.
+
+
+### Thursday 07-11-2024
+- [x] Created the Presentation and the Application Tier of the 3-Tier Architecture.
