@@ -42,10 +42,8 @@
 - [x] Protocols, Subnetting, CIDR
 - [x] OSI Model, TCP/IP, Amazon VPC
 
+
 ##
-
-
-
 
 
 ### Monday 04-Nov-2024
@@ -66,8 +64,11 @@
 - [x] Task 5 - Get the names of each object of the S3 bucket and put in a file in a csv format and put it in a bucket
 - [x] Task 6 - Put the names of the SGs that have any port open to 0.0.0.0 in a file.
 
-
 ### Thursday 07-11-2024
 - [x] Created the Presentation and the Application Tier of the 3-Tier Architecture.
 - [x] Created the DataBAse Tier of the 3-Tier Architecture and completed with the 3-tier arch.
 - [x] Created VPC with 2 public and 2 private subnets with different route tables for public and private subnets and  VPC endpoint to S3
+
+### Friday 08-11-2024
+- [x] Utilise Event bridge as a trigger for the previous lambda functions.
+
