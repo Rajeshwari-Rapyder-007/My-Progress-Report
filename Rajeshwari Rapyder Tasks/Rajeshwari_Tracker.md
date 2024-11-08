@@ -67,8 +67,8 @@
 ### Thursday 07-11-2024
 - [x] Created the Presentation and the Application Tier of the 3-Tier Architecture.
 - [x] Created the DataBAse Tier of the 3-Tier Architecture and completed with the 3-tier arch.
-- [x] Created VPC with 2 public and 2 private subnets with different route tables for public and private subnets and  VPC endpoint to S3
+- [x] Task 7 - Created VPC with 2 public and 2 private subnets with different route tables for public and private subnets and  VPC endpoint to S3
 
 ### Friday 08-11-2024
-- [x] Utilise Event bridge as a trigger for the previous lambda functions.
-
+- [x] Task 8 - Utilise Event bridge as a trigger for the previous lambda functions.
+- [x] Task 9 - Create a bucket and 2 folders. and Upload files to these folders using CLI and console, Configured the bucket to host static website and host sample html page. Created an IAM user who can access only newly created bucket.
