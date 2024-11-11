@@ -72,3 +72,8 @@
 ### Friday 08-11-2024
 - [x] Task 8 - Utilise Event bridge as a trigger for the previous lambda functions.
 - [x] Task 9 - Create a bucket and 2 folders. and Upload files to these folders using CLI and console, Configured the bucket to host static website and host sample html page. Created an IAM user who can access only newly created bucket.
+
+##
+
+### Monday 11-11-2024
+- [x] Task 1 - Created a Lambda function to list the resources - EC2 ,AWS Lambda ,S3 Bucket ,EC2 Volumes (both types) , VPCs 
