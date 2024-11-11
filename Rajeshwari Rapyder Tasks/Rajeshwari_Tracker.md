@@ -77,4 +77,5 @@
 
 ### Monday 11-11-2024
 - [x] Task 1 - Created a Lambda function to list the resources - EC2 ,AWS Lambda ,S3 Bucket ,EC2 Volumes (both types) , VPCs 
-- [x] Task 2 - Create a lambda function add tags to all the resources
+- [x] Task 2 - Created a lambda function add tags to all the resources
+- [x] Task 3 - Created a lambda function delete tags to all the resources
