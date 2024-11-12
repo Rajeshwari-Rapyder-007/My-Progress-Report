@@ -79,3 +79,6 @@
 - [x] Task 1 - Created a Lambda function to list the resources - EC2 ,AWS Lambda ,S3 Bucket ,EC2 Volumes (both types) , VPCs 
 - [x] Task 2 - Created a lambda function add tags to all the resources
 - [x] Task 3 - Created a lambda function delete tags to all the resources
+
+### TeusDay 12-11-2024
+- [x] Completed with Previous Tasks with REctifing all the errors and replaced S3 with dynamoDB
