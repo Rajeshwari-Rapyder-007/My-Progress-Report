@@ -86,3 +86,4 @@
 
 ### Wednesday 13-11-2024
 - [x] Succesfully deletd the VPC - problem( bymistake created a RDS proxy for db security group)
+- [x] Task - API Gateway Trigger for your AWS Lambda Function for the Lambda function for task 1. Then, based on the POST payload, the Lambda function will tag the resource. For example, if the payload has EC2, then EC2 will be tagged. Similarly, if the request is to remove the Tag, then remove the tag for the appropriate resource/service. 
