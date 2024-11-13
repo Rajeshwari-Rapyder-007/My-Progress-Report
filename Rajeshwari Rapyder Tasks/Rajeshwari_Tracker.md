@@ -83,3 +83,6 @@
 ### TeusDay 12-11-2024
 - [x] Completed with Previous Tasks with Rectifing all the errors and replaced S3 with dynamoDB
 - [x] Reseraching about API Gateway and the payload request for the next task
+
+### Wednesday 13-11-2024
+- [x] Succesfully deletd the VPC - problem( bymistake created a RDS proxy for db security group)
