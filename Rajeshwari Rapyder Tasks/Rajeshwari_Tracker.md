@@ -87,3 +87,6 @@
 ### Wednesday 13-11-2024
 - [x] Succesfully deletd the VPC - problem( bymistake created a RDS proxy for db security group)
 - [x] Task - API Gateway Trigger for your AWS Lambda Function for the Lambda function for task 1. Then, based on the POST payload, the Lambda function will tag the resource. 
+
+### Thursday 14-11-2024
+- [x] Create the CloudFormation Template for the similar API Gateway of the Previous Task. 
