@@ -91,3 +91,6 @@
 ### Thursday 14-11-2024
 - [x] Created a CloudFormation Template for the similar API Gateway of the Previous Task. 
 - [x] Updated the CFT with lambda Function and invoking with API Gateway
+
+### Friday 15-11-2024
+- [x] Updated the previous CFT and succesfully it created and rectified the errors as well (PostMEthod - IntegrationResponse, MethodResponse)
