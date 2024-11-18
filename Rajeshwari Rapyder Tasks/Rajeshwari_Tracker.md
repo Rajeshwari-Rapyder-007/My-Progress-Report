@@ -95,3 +95,9 @@
 ### Friday 15-11-2024
 - [x] Updated the previous CFT and succesfully it created and rectified the errors as well (PostMEthod - IntegrationResponse, MethodResponse)
 - [x] CloudWatch alarm for a EC2 instance, and create alarms on metrics: CPU Utilization & Memory Usage Percentage 
+
+##
+
+
+### Monday 18-11-2024
+- [x] Create the CloudWatch Alarm using AWS Console of the prev Task.
