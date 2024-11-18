@@ -102,4 +102,5 @@
 ### Monday 18-11-2024
 - [x] Create the CloudWatch Alarm using AWS Console of the prev Task.
 - [x] ecxel task - Spin up an EC2 Instance with Security Group. EC2 instance should have a Tag with you name
-
+- [x] Created a CFT for CloudWatch alarm for a EC2 instance, and alarms on metrics: CPU Utilization & Memory Usage Percentage 
+ 
