@@ -107,4 +107,5 @@
 ### TeusDay 19-11-2024
 - [x] Introduction to Amazon DynamoDB for Serverless Architectures,
 How it works and Design Considerations.
- 
+ - [x] Serverless Architecture Patterns in DynamoDB
+ - [x] Amazon DynamoDB - Data Modeling Techniques.
