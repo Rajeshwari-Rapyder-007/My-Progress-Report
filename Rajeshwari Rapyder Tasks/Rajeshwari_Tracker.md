@@ -104,8 +104,11 @@
 - [x] ecxel task - Spin up an EC2 Instance with Security Group. EC2 instance should have a Tag with you name
 - [x] Created a CFT for CloudWatch alarm for a EC2 instance, and alarms on metrics: CPU Utilization & Memory Usage Percentage 
 
-### TeusDay 19-11-2024
+### Teusday 19-11-2024
 - [x] Introduction to Amazon DynamoDB for Serverless Architectures,
 How it works and Design Considerations.
  - [x] Serverless Architecture Patterns in DynamoDB
  - [x] Amazon DynamoDB - Data Modeling Techniques.
+
+### Wednesday 20-11-2024
+- [x] Architecting Serverless Application,Migration Considerations,Data Stores, Application Architecture Patterns
