@@ -113,3 +113,7 @@ How it works and Design Considerations.
 ### Wednesday 20-11-2024
 - [x] Architecting Serverless Application,Migration Considerations,Data Stores, Application Architecture Patterns
 - [x] Event-driven Architecture, Serverless Event Submission Patterns, Patterns for Communicating Status Updates
+
+### Thursday 21-11-2024
+- [x] Serverless Data Processing Patterns, with Kenesis Data Firehouse
+- [x] Amazon SNS Filtering, Failure Management in Event Driven Architecture
