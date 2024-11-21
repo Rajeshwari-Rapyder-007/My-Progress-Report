@@ -117,3 +117,4 @@ How it works and Design Considerations.
 ### Thursday 21-11-2024
 - [x] Serverless Data Processing Patterns, with Kenesis Data Firehouse
 - [x] Amazon SNS Filtering, Failure Management in Event Driven Architecture
+- [x] Building an Event Driven Apllication 
