@@ -118,3 +118,6 @@ How it works and Design Considerations.
 - [x] Serverless Data Processing Patterns, with Kenesis Data Firehouse
 - [x] Amazon SNS Filtering, Failure Management in Event Driven Architecture
 - [x] Building an Event Driven Apllication 
+
+### Friday 22-11-2024
+- [x] Task - created an event and rules and tested the EventBridge rules on it.
