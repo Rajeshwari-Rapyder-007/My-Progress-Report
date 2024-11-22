@@ -122,3 +122,5 @@ How it works and Design Considerations.
 ### Friday 22-11-2024
 - [x] Task - created an event and rules and tested the EventBridge rules on it.
 - [x] Sources of events for EventBridge, Rule Targets
+- []
+- [x] AWS CICD (codeCommit, CodePipeline, CodeBuild, CodeDeploy, CodeStar, CodeArtifact, CodeGuru)
