@@ -124,3 +124,8 @@ How it works and Design Considerations.
 - [x] Sources of events for EventBridge, Rule Targets
 - [x] Best Practices for using Amazon EventBridge, Security and Reliability
 - [x] AWS CICD (codeCommit, CodePipeline, CodeBuild, CodeDeploy, CodeStar, CodeArtifact, CodeGuru)
+
+##
+
+### Monday 25-11-2024
+- [x] Analysing Lambda Function for Auto-tagging resources 
