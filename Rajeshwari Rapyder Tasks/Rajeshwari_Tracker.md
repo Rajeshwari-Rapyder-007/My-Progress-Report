@@ -129,3 +129,6 @@ How it works and Design Considerations.
 
 ### Monday 25-11-2024
 - [x] Analysing Lambda Function for Auto-tagging resources 
+
+### TeusDay 26-11-2024
+- [x] tested each an every services for tagging ( untagged dues to unavaiability of resources), error - in tagging codebuild(lacks permission to tag system tags)
