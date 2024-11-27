@@ -132,3 +132,6 @@ How it works and Design Considerations.
 
 ### TeusDay 26-11-2024
 - [x] tested each an every services for tagging ( untagged dues to unavaiability of resources), error - in tagging codebuild(lacks permission to tag system tags)
+
+### Wednesday 27-11-2024
+- [x] Handled the error for codebuild and created a new logic for tagging it
