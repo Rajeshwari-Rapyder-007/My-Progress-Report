@@ -135,4 +135,5 @@ How it works and Design Considerations.
 
 ### Wednesday 27-11-2024
 - [x] Handled the error for codebuild and created a new logic for tagging it
-- [x] creting new resources for the untagged services and re-tagging them to check if any error.
+- [x] creating new resources for the untagged services and re-tagging them to check if any error.
+- [x] some resources which have not created , gone throught about it how to create and researched about it.
