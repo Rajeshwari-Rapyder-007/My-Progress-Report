@@ -141,3 +141,7 @@ How it works and Design Considerations.
 ### Thursday 28-11-2024
 - [x] Analysing Lambda Function for Auto-tagging for new resources 
 - [x] Created a test event for the lambda function for tagging the new security group
+
+### Friday 29-11-2024
+- [x] Created the services and checked weather tagged - (CreateVolume, RunInstances, CreateSnapshot, CreateSecurityGroup, CreateNetworkAcl, CreateRouteTable, CreateVpc, CreateLoadBalancer, CreateTargetGroup
+)
