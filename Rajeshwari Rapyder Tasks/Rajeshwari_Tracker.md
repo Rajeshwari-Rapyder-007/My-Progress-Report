@@ -146,3 +146,5 @@ How it works and Design Considerations.
 - [x] Created the services and checked weather tagged - (CreateVolume, RunInstances, CreateSnapshot, CreateSecurityGroup, CreateNetworkAcl, CreateRouteTable, CreateVpc, CreateLoadBalancer, CreateTargetGroup
 )
 - [x] Analysed that there is no policy for Vault in glacier for tagging.
+- [x] Created the services and checked weather tagged - (CreateBucket, CreateWebACL, CreateRestApi, CreateTable, CreateFunction, CreateWorkGroup, CreateKey
+)
