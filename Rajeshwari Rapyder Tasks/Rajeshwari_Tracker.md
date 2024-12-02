@@ -149,3 +149,8 @@ How it works and Design Considerations.
 - [x] Created the services and checked weather tagged - (CreateBucket, CreateWebACL, CreateRestApi, CreateTable, CreateFunction, CreateWorkGroup, CreateKey
 )
 - [x] CreateQueue, CreateTransitGateway, CreateRepository
+
+##
+
+### Monday 02-12-2024
+- [x] CreateDomain, CreateServer, CreateBackupPlan, CreateCluster
