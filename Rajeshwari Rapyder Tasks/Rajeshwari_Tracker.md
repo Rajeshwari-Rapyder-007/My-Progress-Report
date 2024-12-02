@@ -154,3 +154,4 @@ How it works and Design Considerations.
 
 ### Monday 02-12-2024
 - [x] CreateDomain, CreateServer, CreateBackupPlan, CreateCluster
+- [x] CreateClusterV2, CreateLogGroup, PutMetricAlarm, CreateProject
