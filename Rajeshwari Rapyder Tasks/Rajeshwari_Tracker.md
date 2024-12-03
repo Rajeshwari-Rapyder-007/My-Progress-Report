@@ -159,3 +159,4 @@ How it works and Design Considerations.
 
 ### Teusday 03-12-2024
 - [x] AllocateAddress, CreateVault, CreateService, CreateSubnet
+- [x] CreateStateMachine, CreateUserPool, CreateIdentityPool, CreateImage
