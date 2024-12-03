@@ -157,3 +157,5 @@ How it works and Design Considerations.
 - [x] CreateClusterV2, CreateLogGroup, PutMetricAlarm, CreateProject
 - [x] CreateFileSystem,CreateDeliveryStream, CreateNetworkInterface,CreateUser, CreateRole
 
+### Teusday 03-12-2024
+- [x] AllocateAddress, CreateVault, CreateService, CreateSubnet
