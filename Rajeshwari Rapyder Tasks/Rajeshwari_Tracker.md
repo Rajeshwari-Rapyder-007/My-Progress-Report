@@ -163,3 +163,4 @@ How it works and Design Considerations.
  
  ### Wednesday 04-12-2024
  - [x] Updated the auto-tag code in workdrive and S3 through Amit.
+ - [x] started with cdk(Cloud Development kit), installed the prerequisites.
