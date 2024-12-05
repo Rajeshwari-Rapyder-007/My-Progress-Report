@@ -159,4 +159,7 @@ How it works and Design Considerations.
 
 ### Teusday 03-12-2024
 - [x] AllocateAddress, CreateVault, CreateService, CreateSubnet
-- [x] CreateStateMachine, CreateUserPool, CreateIdentityPool, CreateImage
+- [x] CreateStateMachine, CreateUserPool, CreateIdentityPool, CreateImage(tested using event test as json)
+ 
+ ### Wednesday 04-12-2024
+ - [x] Updated the auto-tag code in workdrive and S3 through Amit.
