@@ -175,4 +175,5 @@ How it works and Design Considerations.
  ##
 
  ### Monday 09-12-204
- - [x] rectified the error of my cdk and succesfully it create a cft stack
+ - [x] rectified the error of my cdk and succesfully it create a cft stack.
+ - [x] Updated the code - setting the security group rules as envt variables, from .env file
