@@ -168,3 +168,6 @@ How it works and Design Considerations.
  ### Thursday 05-12-2024
  - [x] Going through the CDK Concepts - Libraries, projects, apps, stacks, stages, constructs.
  - [x] Tried to create a CDK App for createing an EC2 instance
+
+ ### Friday 09-12-2024
+ - [x] Created a cdk for ec2 instance with security group and selecting the default VPC.(Error - SSM Pass)
