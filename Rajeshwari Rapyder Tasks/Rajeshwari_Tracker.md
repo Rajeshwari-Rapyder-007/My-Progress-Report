@@ -183,3 +183,4 @@ How it works and Design Considerations.
  - [x] Created a cdk for ec2 instance with security group and selecting the default VPC in Python.
  - [x] Created a login and sign-up page using streamlit.
  - [x] Update the UI for the login page.
+ - [x] Gone through AWS Cognito Concepts.
