@@ -178,3 +178,6 @@ How it works and Design Considerations.
  - [x] rectified the error of my cdk and succesfully it create a cft stack.
  - [x] Updated the code - setting the security group rules as envt variables, from .env file
  - [x] Updated the code - setting the Ec2 instances in env variables, from .env file
+
+ ### TeusDay 10-12-2024
+ - [x] Created a cdk for ec2 instance with security group and selecting the default VPC in Python.
