@@ -184,3 +184,6 @@ How it works and Design Considerations.
  - [x] Created a login and sign-up page using streamlit.
  - [x] Update the UI for the login page.
  - [x] Gone through AWS Cognito Concepts.
+
+ ### Wednesday 11-12-2024
+ - [x] Updated the login page using aws cognito(Authenticating the user using - initiate_auth()).
