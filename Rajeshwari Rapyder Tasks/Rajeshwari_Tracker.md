@@ -188,3 +188,4 @@ How it works and Design Considerations.
  ### Wednesday 11-12-2024
  - [x] Updated the login page using aws cognito(Authenticating the user using - initiate_auth()).
  - [x] Updated the signup page (creating the user in aws cognito using - sign_up() ).
+ - [x] Created a confirmation page to confirm the email in cognito by sending a verifation code(using - confirm_sign_up() ).
