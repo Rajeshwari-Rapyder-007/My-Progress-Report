@@ -197,3 +197,4 @@ How it works and Design Considerations.
 
  ### Monday 16-12-2024
  - [x] Created the logout for my streamlit apllication.
+ - [x] Tried to bring the session data of the user on the home page and user profile
