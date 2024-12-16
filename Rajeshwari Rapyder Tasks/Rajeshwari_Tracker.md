@@ -192,3 +192,8 @@ How it works and Design Considerations.
 
  ### Thursday 12-12-2024
  - [x] Created a ForgetPassword page for my login page using aws cognito (forgot_password, confirm_forgot_password)
+
+ ##
+
+ ### Monday 16-12-2024
+ - [x] Created the logout for my streamlit apllication.
