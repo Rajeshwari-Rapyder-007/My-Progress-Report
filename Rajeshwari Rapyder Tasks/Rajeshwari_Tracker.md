@@ -201,4 +201,5 @@ How it works and Design Considerations.
  - [x] Created the solutions page similar to Rapyder webpage
 
  ### TeusDay 17-12-2024
- - [x] initiated with the about page with a scroll down for the streamlit application
+ - [x] initiated with the about page with a scroll down for the streamlit application.
+ - [x] Tried with Django to do the s3 bucket operations with UI.
