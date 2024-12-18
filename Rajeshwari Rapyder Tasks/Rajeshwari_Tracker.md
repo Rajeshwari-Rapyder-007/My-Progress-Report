@@ -199,3 +199,6 @@ How it works and Design Considerations.
  - [x] Created the logout for my streamlit apllication.
  - [x] Tried to bring the session data of the user on the home page and user profile
  - [x] Created the solutions page similar to Rapyder webpage
+
+ ### TeusDay 17-12-2024
+ - [x] initiated with the about page with a scroll down for the streamlit application
