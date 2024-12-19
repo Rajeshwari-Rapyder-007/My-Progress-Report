@@ -204,3 +204,6 @@ How it works and Design Considerations.
  - [x] initiated with the about page with a scroll down for the streamlit application.
  - [x] Tried with Django to do the s3 bucket operations with UI.
  - [x] Created a lambda function which gets triggered using API Gateway for getting the bucket details.
+
+ ### Wednesday 18-12-2024
+ - [x] Created a lambda function that gives the bucket details along with its object details in hierarchical order.
