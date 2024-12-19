@@ -207,3 +207,4 @@ How it works and Design Considerations.
 
  ### Wednesday 18-12-2024
  - [x] Created a lambda function that gives the bucket details along with its object details in hierarchical order.
+ - [x] Added the API gateway and tried to resolve CORS error.
