@@ -209,3 +209,6 @@ How it works and Design Considerations.
  - [x] Created a lambda function that gives the bucket details along with its object details in hierarchical order.
  - [x] Added the API gateway and tried to resolve CORS error.
  - [x] Created a contact form for the streamlit application
+
+ ### Thursday 19-12-2024
+ - [x] Tried to create a lambda function to return 10 S3 buckets name at every API Call.
