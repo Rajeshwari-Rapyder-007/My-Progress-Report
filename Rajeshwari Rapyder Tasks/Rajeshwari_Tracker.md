@@ -213,3 +213,6 @@ How it works and Design Considerations.
  ### Thursday 19-12-2024
  - [x] Tried to create a lambda function to return 10 S3 buckets name at every API Call.
  - [x] Created a lambda function which wil display the objects of the bucket and at every API call it will display the objects of that Folder.
+
+ ### Friday 20-12-2024
+ - [x] worked  with adding object to s3 bucket using lambda functions.
