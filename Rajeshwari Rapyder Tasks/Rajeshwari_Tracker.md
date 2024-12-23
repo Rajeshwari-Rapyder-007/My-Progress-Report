@@ -218,3 +218,4 @@ How it works and Design Considerations.
  - [x] worked  with adding object to s3 bucket using lambda functions.
  - [x] Updated my streamlit app --(created a CCOE page and added somer services).
  - [x] streamlit app - displayed the S3 buckets using an API call.
+ - [x] worked with login and logout page errors.
