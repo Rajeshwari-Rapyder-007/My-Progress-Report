@@ -216,4 +216,5 @@ How it works and Design Considerations.
 
  ### Friday 20-12-2024
  - [x] worked  with adding object to s3 bucket using lambda functions.
- - [x] Updated my streamlit app --(created a CCOE page and added somer services)
+ - [x] Updated my streamlit app --(created a CCOE page and added somer services).
+ - [x] streamlit app - displayed the S3 buckets using an API call.
