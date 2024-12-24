@@ -219,3 +219,9 @@ How it works and Design Considerations.
  - [x] Updated my streamlit app --(created a CCOE page and added somer services).
  - [x] streamlit app - displayed the S3 buckets using an API call.
  - [x] worked with login and logout page errors.
+
+
+ ##
+
+ ### Monday 23-12-2024
+ - [x] Tried to update the streamlit apllication - added more option which should display the details of the bucket.
