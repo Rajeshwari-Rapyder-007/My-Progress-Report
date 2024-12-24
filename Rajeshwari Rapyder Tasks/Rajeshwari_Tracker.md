@@ -225,3 +225,4 @@ How it works and Design Considerations.
 
  ### Monday 23-12-2024
  - [x] Tried to update the streamlit apllication - added more option which should display the details of the bucket.
+ - [x] Created a cdk for trigger a lambda function with an API Gateway.
