@@ -226,3 +226,6 @@ How it works and Design Considerations.
  ### Monday 23-12-2024
  - [x] Tried to update the streamlit apllication - added more option which should display the details of the bucket.
  - [x] Created a cdk for trigger a lambda function with an API Gateway.
+
+ ### TeusDay 24-12-2024
+ - [x] worked with the lambda function for the serach bar inside a bucket(to return the objects of that prefix and type of file or folder).
