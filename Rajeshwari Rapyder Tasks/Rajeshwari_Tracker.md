@@ -230,3 +230,9 @@ How it works and Design Considerations.
  ### TeusDay 24-12-2024
  - [x] worked with the lambda function for the serach bar inside a bucket(to return the objects of that prefix and type of file or folder).
  - [x] worked with my cdk app for api gateway to lamda and tried to retify the bug (reduce the no of end points it created last time).
+
+ ### Wednesday 25-12-2024
+ - Holiday(Christmas)
+
+ ### Thursday 26-12-2024
+ - [x] worked with lambda function to use paginators for displaying 10 objects per page.
