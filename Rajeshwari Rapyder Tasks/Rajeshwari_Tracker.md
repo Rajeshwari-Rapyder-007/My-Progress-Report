@@ -236,3 +236,4 @@ How it works and Design Considerations.
 
  ### Thursday 26-12-2024
  - [x] worked with lambda function to use paginators for displaying 10 objects per page.
+ - [x] worked on the same lambda fo the search query to return the objects of that preifix.
