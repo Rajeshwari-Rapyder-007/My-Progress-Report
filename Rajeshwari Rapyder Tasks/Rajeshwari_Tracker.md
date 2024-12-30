@@ -240,3 +240,4 @@ How it works and Design Considerations.
 
  ### Friday 27-12-2024
  - [x] Tried to clear the bugs(not returning the file type) of the lambda function for serach query in the bucket.
+ - [x] worked with cdk and the api gatway will make a test-nvoke-stage by default which will not create any problem.. so we have to just ignore it.
