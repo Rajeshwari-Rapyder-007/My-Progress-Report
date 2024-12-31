@@ -248,3 +248,5 @@ How it works and Design Considerations.
 
  ### Monday 30-12-2024
  - [x] Updated the code for listBuckests to return the bucketCount with searchCount in the response.
+ - [x] Updated the code for listBuckestObjects to return the ObjectCount with searchCount in the response.
+ 
