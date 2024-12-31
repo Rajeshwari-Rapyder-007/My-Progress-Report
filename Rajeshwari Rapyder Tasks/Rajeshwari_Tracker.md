@@ -251,3 +251,5 @@ How it works and Design Considerations.
  - [x] Updated the code for listBuckestObjects to return the ObjectCount with searchCount in the response.
  - [x] worked on the search function for the buckets(displaying the objects in the right hierarchy).
  
+### Teusday 31-12-2024
+- [x] Updated the code for listBucketObjects - debuuged the searh operation and its returning response from till the end.
