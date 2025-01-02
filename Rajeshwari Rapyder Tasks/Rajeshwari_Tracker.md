@@ -252,4 +252,5 @@ How it works and Design Considerations.
  - [x] worked on the search function for the buckets(displaying the objects in the right hierarchy).
  
 ### Teusday 31-12-2024
-- [x] Updated the code for listBucketObjects - debuuged the searh operation and its returning response from till the end.
+- [x] Updated the code for listBucketObjects - debuged the searh operation and its returning response from till the end.
+- [x] Updated the region for the code (when it selects for that bucket - it will go to that region and give the response).
