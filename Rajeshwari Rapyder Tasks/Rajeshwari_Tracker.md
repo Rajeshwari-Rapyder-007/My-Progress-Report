@@ -254,3 +254,10 @@ How it works and Design Considerations.
 ### Teusday 31-12-2024
 - [x] Updated the code for listBucketObjects - debuged the searh operation and its returning response from till the end.
 - [x] Updated the region for the code (when it selects for that bucket - it will go to that region and give the response).
+
+
+### Wednesday 01-12-2024
+- [x] New Year
+
+### Thursday 02-12-2024
+- [x] Debugged the code for the search function for the folders (not able to return reponse for larger buckets with more nested folders).
