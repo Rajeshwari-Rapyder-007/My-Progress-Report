@@ -269,4 +269,5 @@ How it works and Design Considerations.
 - Intern Leave
 
 ### TeusDay
-- [x] Continuation of Certification - ELB & ASG
+- [x] Continuation of Certification - ELB & ASG.
+- [x] Initiated wit GenAI -  LLM, Embeddings, Vector Database, Retrieval Augumented Generation, Langchain.
