@@ -265,9 +265,12 @@ How it works and Design Considerations.
 
 ##
 
-### Monday 08-01-2025
+### Monday 06-01-2025
 - Intern Leave
 
-### TeusDay
+### TeusDay 07-01-2025
 - [x] Continuation of Certification - ELB & ASG.
 - [x] Initiated wit GenAI -  LLM, Embeddings, Vector Database, Retrieval Augumented Generation, Langchain.
+
+### Wednesday 08-01-2025
+- [x] Initiated with Langchain Practices.
