@@ -262,3 +262,11 @@ How it works and Design Considerations.
 ### Thursday 02-12-2024
 - [x] Debugged the code for the search function for the folders (not able to return reponse for larger buckets with more nested folders).
 - [x] Started working for my Certification (EBS, EFS, AMI).
+
+##
+
+### Monday 08-01-2025
+- Intern Leave
+
+### TeusDay
+- [x] Continuation of Certification - ELB & ASG
