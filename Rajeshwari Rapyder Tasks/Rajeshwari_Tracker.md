@@ -277,3 +277,6 @@ How it works and Design Considerations.
 - [x] Gone through with AWS BedRock.
 - [x] Created a APIGateway for RapyderAI.
 
+
+### Thursday 09-01-2025
+- [x] Created CDK for integrating HTTP-API Gateway with CORS integrating to the Lambda
