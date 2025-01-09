@@ -270,7 +270,8 @@ How it works and Design Considerations.
 
 ### TeusDay 07-01-2025
 - [x] Continuation of Certification - ELB & ASG.
-- [x] Initiated wit GenAI -  LLM, Embeddings, Vector Database, Retrieval Augumented Generation, Langchain.
+- [x] Initiated with GenAI -  LLM, Embeddings, Vector Database, Retrieval Augumented Generation, Langchain.
 
 ### Wednesday 08-01-2025
 - [x] Initiated with Langchain Practices.
+- [x] Gone through with AWS BedRock.
