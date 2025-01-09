@@ -279,4 +279,5 @@ How it works and Design Considerations.
 
 
 ### Thursday 09-01-2025
-- [x] Created CDK for integrating HTTP-API Gateway with CORS integrating to the Lambda
+- [x] Created CDK for integrating HTTP-API Gateway with CORS integrating to the Lambda.
+- [x] Tried implimeting BedRock model (amazon.nova-micro-v1) in lambda.
