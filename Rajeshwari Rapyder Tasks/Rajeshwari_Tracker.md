@@ -275,3 +275,5 @@ How it works and Design Considerations.
 ### Wednesday 08-01-2025
 - [x] Initiated with Langchain Practices.
 - [x] Gone through with AWS BedRock.
+- [x] Created a APIGateway for RapyderAI.
+
