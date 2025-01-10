@@ -285,3 +285,4 @@ How it works and Design Considerations.
 ### Friday 10-01-2025
 - [x] updated the Bedrock lambda - triggered an APIGateway and linked to the front-end of the chatbot.
 - [x] tried to push the cdk app to github - error in adding the files. 
+- [x] Successfully created the branch and uploaded the cdk app.
