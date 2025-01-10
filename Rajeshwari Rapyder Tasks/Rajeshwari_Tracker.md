@@ -283,4 +283,5 @@ How it works and Design Considerations.
 - [x] Tried implimeting BedRock model (amazon.nova-micro-v1) in lambda.
 
 ### Friday 10-01-2025
-- [X] updated the Bedrock lambda - triggered an APIGateway and linked to the front-end of the chatbot.
+- [x] updated the Bedrock lambda - triggered an APIGateway and linked to the front-end of the chatbot.
+- [x] tried to push the cdk app to github - error in adding the files. 
