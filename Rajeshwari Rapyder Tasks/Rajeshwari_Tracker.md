@@ -287,3 +287,8 @@ How it works and Design Considerations.
 - [x] tried to push the cdk app to github - error in adding the files. 
 - [x] Successfully created the branch and uploaded the cdk app.
 - [x] Updated the cdk app- created a cognito user pool and integrated to API Gateway.
+
+##
+
+### Monday 13-01-2025
+- [x] Created a lambda function using bedrock for chat using converse API - so it can work with any foundation model.
