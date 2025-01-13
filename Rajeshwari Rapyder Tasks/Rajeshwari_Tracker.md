@@ -292,3 +292,4 @@ How it works and Design Considerations.
 
 ### Monday 13-01-2025
 - [x] Created a lambda function using bedrock for chat using converse API - so it can work with any foundation model.
+- [x] Tried to debug the error for the cognito in cdk app.
