@@ -293,3 +293,9 @@ How it works and Design Considerations.
 ### Monday 13-01-2025
 - [x] Created a lambda function using bedrock for chat using converse API - so it can work with any foundation model.
 - [x] Tried to debug the error for the cognito in cdk app.
+
+### Teusday 14-01-2025
+- [x] Holiday - Makra Sankrantri
+
+### Wednesday 15-01-2025
+- [x] Researched for the storing of the chat history for RapyderAI.
