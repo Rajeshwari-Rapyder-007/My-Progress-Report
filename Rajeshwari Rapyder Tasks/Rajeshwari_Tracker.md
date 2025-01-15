@@ -301,3 +301,4 @@ How it works and Design Considerations.
 - [x] Researched for the storing of the chat history for RapyderAI.
 - [x] Created a database in RDS and tried to configure in mySQL(but not a optimised solution as it is priced).
 - [x] so started with dynamoDB and S3.
+- [x] Updated the lambda code for Rapyder (included claude sonnet 3.5 model).
