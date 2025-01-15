@@ -300,3 +300,4 @@ How it works and Design Considerations.
 ### Wednesday 15-01-2025
 - [x] Researched for the storing of the chat history for RapyderAI.
 - [x] Created a database in RDS and tried to configure in mySQL(but not a optimised solution as it is priced).
+- [x] so started with dynamoDB and S3.
