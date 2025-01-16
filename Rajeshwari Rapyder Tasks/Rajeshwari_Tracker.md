@@ -305,4 +305,4 @@ How it works and Design Considerations.
 
 ### Thursday 16-01-2025
 - [x] Created a lambda function to store the chats(for each request)
-
+- [x] Updated the lambda function that can store conversaion.
