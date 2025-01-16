@@ -307,3 +307,4 @@ How it works and Design Considerations.
 - [x] Created a lambda function to store the chats(for each request)
 - [x] Updated the lambda function that can store conversaion.
 - [x] Updated the lambda function that can retrieve the chat history.
+- [x] Updated the lambda function that can create a new chat and store the prev conv.
