@@ -302,3 +302,7 @@ How it works and Design Considerations.
 - [x] Created a database in RDS and tried to configure in mySQL(but not a optimised solution as it is priced).
 - [x] so started with dynamoDB and S3.
 - [x] Updated the lambda code for Rapyder (included claude sonnet 3.5 model).
+
+### Thursday 16-01-2025
+- [x] Created a lambda function to store the chats(for each request)
+
