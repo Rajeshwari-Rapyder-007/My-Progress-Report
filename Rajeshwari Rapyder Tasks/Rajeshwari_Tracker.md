@@ -311,3 +311,4 @@ How it works and Design Considerations.
 
 ### Friday 17-01-2025
 - [x] Updated the lambda function that can store the chat after logout.
+- [x] Reasearched fast API vs Django vs Flask
