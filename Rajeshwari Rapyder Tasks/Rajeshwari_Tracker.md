@@ -308,3 +308,6 @@ How it works and Design Considerations.
 - [x] Updated the lambda function that can store conversaion.
 - [x] Updated the lambda function that can retrieve the chat history.
 - [x] Updated the lambda function that can create a new chat and store the prev conv.
+
+### Friday 17-01-2025
+- [x] Updated the lambda function that can store the chat after logout.
