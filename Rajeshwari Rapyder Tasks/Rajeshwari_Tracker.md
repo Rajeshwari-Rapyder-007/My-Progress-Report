@@ -312,3 +312,8 @@ How it works and Design Considerations.
 ### Friday 17-01-2025
 - [x] Updated the lambda function that can store the chat after logout.
 - [x] Reasearched fast API vs Django vs Flask
+
+##
+
+### Monday 20-01-2025
+- [x] Updated the lambda code where it will store the s3 key in the dynamoDb instead of messages.
